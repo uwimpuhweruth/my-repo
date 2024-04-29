@@ -1,0 +1,34 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;  
+}
+.menu{
+    padding: 50px;
+}
+.btn-main{
+    height:90vh; 
+    background-image: url(./images/istockphoto-1365824279-2048x2048.jpg);  
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    padding: 200px;
+}
+.main p{
+    color: aliceblue;
+}
+.navbar{
+    width: 100%;
+   min-height:  100px;
+    padding: 20px 80px;
+    margin: 0;
+    background: #484872;
+    text-align: center;
+}
+.navbar p{
+  color: whitesmoke;
+  margin: 20px auto;
+  padding: 20px auto;  
+}
+
